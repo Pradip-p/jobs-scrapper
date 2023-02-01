@@ -1,0 +1,13 @@
+Scrapy
+pillow
+googletrans
+pdfminer.six
+PyYAML
+cloudscraper
+gspread
+oauth2client
+js2xml
+dateparser
+bs4
+pyopenssl==22.0.0
+cryptography==38.0.4
